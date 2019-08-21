@@ -1,1 +1,3 @@
-this is a js type file
+function runAsync(){
+    console.log("this is a async function")
+}
