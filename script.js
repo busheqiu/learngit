@@ -1,0 +1,1 @@
+this is a js type file
